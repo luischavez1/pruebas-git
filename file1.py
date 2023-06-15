@@ -14,3 +14,6 @@ print("Nueva funcionalidad terminada (3)")
 print("primer avance")
 
 print("segundo avance")
+
+#-----------------------BOMBERAZO IRVING-------
+print("Correccion bomberazo")
