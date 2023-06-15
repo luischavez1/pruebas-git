@@ -17,3 +17,6 @@ print("segundo avance")
 
 #-----------------------BOMBERAZO IRVING-------
 print("Correccion bomberazo")
+
+# ------------------- Funcionalidad Chuy -------------------
+print("funcionalidad Chuy 1")
