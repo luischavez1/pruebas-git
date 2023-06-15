@@ -20,3 +20,5 @@ print("Correccion bomberazo")
 
 # ------------------- Funcionalidad Chuy -------------------
 print("funcionalidad Chuy 1")
+
+print("funcionalidad Chuy 2")
